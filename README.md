@@ -1,5 +1,5 @@
 # React Learning: Profile Cards with TailwindCSS
-![Uploading image.png…]()
+
 
 This repository contains a simple React project created as part of my learning journey with React and TailwindCSS.
 
